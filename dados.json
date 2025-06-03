@@ -1,0 +1,124 @@
+{
+  "biblioteca": [
+    {
+      "ID": 1,
+      "titulo_do_livro": "Dom Casmurro",
+      "nome_do_autor": "Machado de Assis",
+      "descricao_curta_da_obra": "Romance que narra a história de Bentinho e sua obsessão por Capitu, explorando temas como ciúme, traição e memória através de um narrador não-confiável.",
+      "ano_da_obra": 1899,
+      "genero": "Romance"
+    },
+    {
+      "ID": 2,
+      "titulo_do_livro": "1984",
+      "nome_do_autor": "George Orwell",
+      "descricao_curta_da_obra": "Distopia sobre um regime totalitário que controla todos os aspectos da vida através da vigilância constante e manipulação da verdade.",
+      "ano_da_obra": 1949,
+      "genero": "Ficção Científica"
+    },
+    {
+      "ID": 3,
+      "titulo_do_livro": "Cem Anos de Solidão",
+      "nome_do_autor": "Gabriel García Márquez",
+      "descricao_curta_da_obra": "Saga da família Buendía na cidade fictícia de Macondo, misturando realidade e fantasia em um retrato do realismo mágico latino-americano.",
+      "ano_da_obra": 1967,
+      "genero": "Realismo Mágico"
+    },
+    {
+      "ID": 4,
+      "titulo_do_livro": "O Cortiço",
+      "nome_do_autor": "Aluísio Azevedo",
+      "descricao_curta_da_obra": "Romance naturalista que retrata a vida em uma habitação coletiva no Rio de Janeiro do século XIX, denunciando as condições sociais da época.",
+      "ano_da_obra": 1890,
+      "genero": "Naturalismo"
+    },
+    {
+      "ID": 5,
+      "titulo_do_livro": "Crime e Castigo",
+      "nome_do_autor": "Fiódor Dostoiévski",
+      "descricao_curta_da_obra": "Romance psicológico sobre Raskólnikov, um jovem que comete um assassinato e enfrenta as consequências morais e psicológicas de seu ato.",
+      "ano_da_obra": 1866,
+      "genero": "Romance Psicológico"
+    },
+    {
+      "ID": 6,
+      "titulo_do_livro": "O Alquimista",
+      "nome_do_autor": "Paulo Coelho",
+      "descricao_curta_da_obra": "Fábula sobre um jovem pastor que viaja em busca de um tesouro, descobrindo lições sobre sonhos, destino e autodescoberta.",
+      "ano_da_obra": 1988,
+      "genero": "Ficção Filosófica"
+    },
+    {
+      "ID": 7,
+      "titulo_do_livro": "Memórias Póstumas de Brás Cubas",
+      "nome_do_autor": "Machado de Assis",
+      "descricao_curta_da_obra": "Romance narrado por um defunto que conta sua vida de forma irônica e pessimista, inaugurando o realismo brasileiro.",
+      "ano_da_obra": 1881,
+      "genero": "Romance"
+    },
+    {
+      "ID": 8,
+      "titulo_do_livro": "O Pequeno Príncipe",
+      "nome_do_autor": "Antoine de Saint-Exupéry",
+      "descricao_curta_da_obra": "Fábula poética sobre um príncipe de um asteroide que viaja pela galáxia, explorando temas como amizade, amor e a natureza humana.",
+      "ano_da_obra": 1943   ,
+      "genero": "Fábula"
+    },
+    {
+      "ID": 9,
+      "titulo_do_livro": "Satanine",
+      "nome_do_autor": "Jagunços da Esperança",
+      "descricao_curta_da_obra": "Fábula poética sobre um cachaceiroque vivia a enganar o povo. Seus amigos aprontavam da boa e ele dizia nunca saber o ue estava havendo.",
+      "ano_da_obra": 2025,
+      "genero": "Cachaçula"
+    },
+    {
+      "ID": 10,
+      "titulo_do_livro": "O Martelo da Justiça",
+      "nome_do_autor": "Tribunal dos Milagres",
+      "descricao_curta_da_obra": "Comédia sobre um juiz que sempre decidia baseado no tamanho da propina. Suas sentenças eram mais imprevisíveis que o clima brasileiro.",
+      "ano_da_obra": 2024,
+      "genero": "Jurídicola"
+    },
+    {
+      "ID": 11,
+      "titulo_do_livro": "Memórias de um Deputado Esquecido",
+      "nome_do_autor": "Anônimo (por motivos óbvios)",
+      "descricao_curta_da_obra": "Autobiografia hilária de um político que só aparecia no Congresso para bater ponto e dormir. Especialista em não fazer nada com excelência.",
+      "ano_da_obra": 2023,
+      "genero": "Politicada"
+    },
+    {
+      "ID": 12,
+      "titulo_do_livro": "A Balança Torta",
+      "nome_do_autor": "Comarca dos Absurdos",
+      "descricao_curta_da_obra": "Sátira sobre uma corte onde a justiça era pesada não pela razão, mas pelo peso das carteiras dos envolvidos no processo.",
+      "ano_da_obra": 2025,
+      "genero": "Jurídicola"
+    },
+    {
+      "ID": 13,
+      "titulo_do_livro": "O Senador Invisível",
+      "nome_do_autor": "Plenário Vazio",
+      "descricao_curta_da_obra": "Romance cômico sobre um senador tão ausente que ninguém sabia como ele foi eleito. Suas maiores contribuições eram os cochilos durante as sessões.",
+      "ano_da_obra": 2024,
+      "genero": "Politicada"
+    },
+    {
+      "ID": 14,
+      "titulo_do_livro": "Código Penal da Zona",
+      "nome_do_autor": "Fórum do Caos",
+      "descricao_curta_da_obra": "Paródia jurídica onde as leis eram interpretadas conforme a conveniência e os processos se arrastavam mais que novela mexicana.",
+      "ano_da_obra": 2023,
+      "genero": "Jurídicola"
+    },
+    {
+      "ID": 15,
+      "titulo_do_livro": "Diário de um Vereador Honesto",
+      "nome_do_autor": "Ficção Científica Brasileira",
+      "descricao_curta_da_obra": "Obra de ficção científica sobre a descoberta de um vereador que realmente trabalhava pelo povo. Considerado o livro de fantasia mais irrealista já escrito.",
+      "ano_da_obra": 2025,
+      "genero": "Ficção Impossível"
+    }
+  ]
+}
