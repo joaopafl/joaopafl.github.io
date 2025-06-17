@@ -1,0 +1,109 @@
+{
+  "pizzas": [
+    {
+      "nome": "Margherita",
+      "categoria": "Tradicional",
+      "descricao": "Molho de tomate, mussarela, tomate e manjericão.",
+      "preco": 34.90,
+      "imagem": "https://via.placeholder.com/300x180?text=Margherita"
+    },
+    {
+      "nome": "Calabresa",
+      "categoria": "Tradicional",
+      "descricao": "Mussarela, calabresa fatiada e cebola.",
+      "preco": 37.50,
+      "imagem": "https://via.placeholder.com/300x180?text=Calabresa"
+    },
+    {
+      "nome": "Frango com Catupiry",
+      "categoria": "Especial",
+      "descricao": "Frango desfiado e catupiry cremoso.",
+      "preco": 42.00,
+      "imagem": "https://via.placeholder.com/300x180?text=Frango+com+Catupiry"
+    },
+    {
+      "nome": "Portuguesa",
+      "categoria": "Tradicional",
+      "descricao": "Presunto, mussarela, ovos, cebola, ervilha e azeitona.",
+      "preco": 39.90,
+      "imagem": "https://via.placeholder.com/300x180?text=Portuguesa"
+    },
+    {
+      "nome": "Quatro Queijos",
+      "categoria": "Especial",
+      "descricao": "Mussarela, provolone, parmesão e gorgonzola.",
+      "preco": 43.00,
+      "imagem": "https://via.placeholder.com/300x180?text=Quatro+Queijos"
+    },
+    {
+      "nome": "Pepperoni",
+      "categoria": "Internacional",
+      "descricao": "Mussarela e fatias de pepperoni levemente apimentado.",
+      "preco": 45.50,
+      "imagem": "https://via.placeholder.com/300x180?text=Pepperoni"
+    },
+    {
+      "nome": "Vegetariana",
+      "categoria": "Saudável",
+      "descricao": "Mussarela, tomate, milho, palmito, pimentão e cebola.",
+      "preco": 38.00,
+      "imagem": "https://via.placeholder.com/300x180?text=Vegetariana"
+    },
+    {
+      "nome": "Bacon com Cheddar",
+      "categoria": "Especial",
+      "descricao": "Mussarela, tiras de bacon e cheddar cremoso.",
+      "preco": 44.90,
+      "imagem": "https://via.placeholder.com/300x180?text=Bacon+com+Cheddar"
+    },
+    {
+      "nome": "Atum",
+      "categoria": "Tradicional",
+      "descricao": "Mussarela, atum, cebola e azeitona.",
+      "preco": 40.00,
+      "imagem": "https://via.placeholder.com/300x180?text=Atum"
+    },
+    {
+      "nome": "Napolitana",
+      "categoria": "Tradicional",
+      "descricao": "Mussarela, tomate, parmesão e orégano.",
+      "preco": 35.00,
+      "imagem": "https://via.placeholder.com/300x180?text=Napolitana"
+    },
+    {
+      "nome": "Carne Seca com Requeijão",
+      "categoria": "Especial",
+      "descricao": "Carne seca desfiada e requeijão cremoso.",
+      "preco": 47.00,
+      "imagem": "https://via.placeholder.com/300x180?text=Carne+Seca"
+    },
+    {
+      "nome": "Lombo Canadense",
+      "categoria": "Premium",
+      "descricao": "Lombo canadense, mussarela e tomate seco.",
+      "preco": 49.00,
+      "imagem": "https://via.placeholder.com/300x180?text=Lombo+Canadense"
+    },
+    {
+      "nome": "Brócolis com Alho",
+      "categoria": "Saudável",
+      "descricao": "Mussarela, brócolis, alho frito e parmesão.",
+      "preco": 39.50,
+      "imagem": "https://via.placeholder.com/300x180?text=Brocolis+com+Alho"
+    },
+    {
+      "nome": "Chocolate com Morango",
+      "categoria": "Doce",
+      "descricao": "Chocolate ao leite derretido e morangos frescos.",
+      "preco": 42.00,
+      "imagem": "https://via.placeholder.com/300x180?text=Chocolate+com+Morango"
+    },
+    {
+      "nome": "Romeu e Julieta",
+      "categoria": "Doce",
+      "descricao": "Mussarela com goiabada derretida.",
+      "preco": 41.00,
+      "imagem": "https://via.placeholder.com/300x180?text=Romeu+e+Julieta"
+    }
+  ]
+}
